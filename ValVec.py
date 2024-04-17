@@ -8,5 +8,6 @@ valores_propios, vectores_propios = np.linalg.eig(matriz)
 # Imprimir los valores propios y vectores propios
 print("Valores propios:")
 print(valores_propios)
-print("\nVectores propios:")
+print("Vectores propios:")
 print(vectores_propios)
+
